@@ -1,0 +1,7 @@
+{
+  "name": "DSC",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
